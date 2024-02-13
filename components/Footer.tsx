@@ -10,7 +10,7 @@ import { RiTwitterXLine, RiGithubFill } from "react-icons/ri";
 
 const Footer = (props: Props) => {
   return (
-    <div className="justify-center gap-3 font-bold flex mt-2 text-2xl">
+    <div className="justify-center gap-3 font-bold flex mt-6 text-2xl">
       <Link href="https://twitter.com/Omegayon" target="_blank">
         <RiTwitterXLine />
       </Link>
